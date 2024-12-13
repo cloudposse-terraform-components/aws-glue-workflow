@@ -5,7 +5,7 @@ tags:
   - provider/aws
 ---
 
-# Component: `glue`
+# Component: `glue-workflow`
 
 This component provisions Glue workflows.
 
