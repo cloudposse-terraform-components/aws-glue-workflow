@@ -9,9 +9,8 @@ tags:
 
 This component provisions Glue workflows.
 
+Stack Level: Regional
 ## Usage
-
-**Stack Level**: Regional
 
 ```yaml
 components:
@@ -27,7 +26,10 @@ components:
 ```
 
 <!-- prettier-ignore-start -->
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- prettier-ignore-end -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -87,12 +89,17 @@ No resources.
 | <a name="output_workflow_arn"></a> [workflow\_arn](#output\_workflow\_arn) | Glue workflow ARN |
 | <a name="output_workflow_id"></a> [workflow\_id](#output\_workflow\_id) | Glue workflow ID |
 | <a name="output_workflow_name"></a> [workflow\_name](#output\_workflow\_name) | Glue workflow name |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-<!-- prettier-ignore-end -->
+<!-- markdownlint-restore -->
+
+
 
 ## References
 
-- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/glue/workflow) -
-  Cloud Posse's upstream component
+
+- [cloudposse-terraform-components](https://github.com/orgs/cloudposse-terraform-components/repositories) - Cloud Posse's upstream component
+
+
+
 
 [<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-glue-workflow&utm_content=)
+
